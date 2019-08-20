@@ -588,8 +588,8 @@ a:hover {
   color: #dfd9c6;
 }
 /* Scroll to top button*/
-.scrollToTop_wraper {
-  display: none;
+#scrollToTop a {
+  border-radius: 100px;
 }
 #scrollToTop a i:before {
   content: '';
@@ -1383,12 +1383,12 @@ body {
 }
 .cid-rzHq9bxr1b .navbar {
   padding: .5rem 0;
-  background: #333333;
+  background: #cc2952;
   transition: none;
   min-height: 77px;
 }
 .cid-rzHq9bxr1b .navbar-dropdown.bg-color.transparent.opened {
-  background: #333333;
+  background: #cc2952;
 }
 .cid-rzHq9bxr1b a {
   font-style: normal;
@@ -1479,7 +1479,7 @@ body {
   padding-bottom: 0;
 }
 .cid-rzHq9bxr1b .dropdown .dropdown-menu {
-  background: #333333;
+  background: #cc2952;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -1779,10 +1779,33 @@ body {
 }
 .cid-rzHq9bxr1b .nav-link:hover,
 .cid-rzHq9bxr1b .dropdown-item:hover {
-  color: #c1c1c1 !important;
+  color: #ff7f9f !important;
 }
-.cid-rzHhNvkRry {
-  background-image: url("../../../assets/images/background4.jpg");
+.cid-rzHMyreIkP {
+  background-image: url("../../../assets/images/background1.jpg");
+}
+.cid-rzHMyreIkP .icons-media-container {
+  display: flex;
+  -webkit-justify-content: center;
+  justify-content: center;
+  -webkit-flex-direction: row;
+  flex-direction: row;
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+  padding-top: 4rem;
+}
+.cid-rzHMyreIkP .icons-media-container .mbr-iconfont {
+  font-size: 96px;
+  color: #ffffff;
+}
+.cid-rzHMyreIkP .icons-media-container .icon-block {
+  padding-bottom: 1rem;
+}
+.cid-rzHMyreIkP .mbr-text {
+  color: #ffffff;
+}
+.cid-rzHMyreIkP .card {
+  padding-bottom: 1.5rem;
 }
 .cid-rzHhSAqo9g {
   padding-top: 90px;
@@ -1819,10 +1842,13 @@ body {
     display: none;
   }
 }
+.cid-rzHhSAqo9g H2 {
+  color: #7f1933;
+}
 .cid-rzHpWAQx32 {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-color: #2e2e2e;
+  background-color: #20050c;
 }
 .cid-rzHpWAQx32 .row-links {
   width: 100%;
@@ -1899,12 +1925,12 @@ body {
 }
 .cid-rzHq9bxr1b .navbar {
   padding: .5rem 0;
-  background: #333333;
+  background: #cc2952;
   transition: none;
   min-height: 77px;
 }
 .cid-rzHq9bxr1b .navbar-dropdown.bg-color.transparent.opened {
-  background: #333333;
+  background: #cc2952;
 }
 .cid-rzHq9bxr1b a {
   font-style: normal;
@@ -1995,7 +2021,7 @@ body {
   padding-bottom: 0;
 }
 .cid-rzHq9bxr1b .dropdown .dropdown-menu {
-  background: #333333;
+  background: #cc2952;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -2295,7 +2321,7 @@ body {
 }
 .cid-rzHq9bxr1b .nav-link:hover,
 .cid-rzHq9bxr1b .dropdown-item:hover {
-  color: #c1c1c1 !important;
+  color: #ff7f9f !important;
 }
 .cid-rzHpWAQx32 {
   padding-top: 30px;
@@ -2377,12 +2403,12 @@ body {
 }
 .cid-rzHq9bxr1b .navbar {
   padding: .5rem 0;
-  background: #333333;
+  background: #cc2952;
   transition: none;
   min-height: 77px;
 }
 .cid-rzHq9bxr1b .navbar-dropdown.bg-color.transparent.opened {
-  background: #333333;
+  background: #cc2952;
 }
 .cid-rzHq9bxr1b a {
   font-style: normal;
@@ -2473,7 +2499,7 @@ body {
   padding-bottom: 0;
 }
 .cid-rzHq9bxr1b .dropdown .dropdown-menu {
-  background: #333333;
+  background: #cc2952;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -2773,7 +2799,7 @@ body {
 }
 .cid-rzHq9bxr1b .nav-link:hover,
 .cid-rzHq9bxr1b .dropdown-item:hover {
-  color: #c1c1c1 !important;
+  color: #ff7f9f !important;
 }
 .cid-rzHpWAQx32 {
   padding-top: 30px;
@@ -2855,12 +2881,12 @@ body {
 }
 .cid-rzHq9bxr1b .navbar {
   padding: .5rem 0;
-  background: #333333;
+  background: #cc2952;
   transition: none;
   min-height: 77px;
 }
 .cid-rzHq9bxr1b .navbar-dropdown.bg-color.transparent.opened {
-  background: #333333;
+  background: #cc2952;
 }
 .cid-rzHq9bxr1b a {
   font-style: normal;
@@ -2951,7 +2977,7 @@ body {
   padding-bottom: 0;
 }
 .cid-rzHq9bxr1b .dropdown .dropdown-menu {
-  background: #333333;
+  background: #cc2952;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -3251,7 +3277,7 @@ body {
 }
 .cid-rzHq9bxr1b .nav-link:hover,
 .cid-rzHq9bxr1b .dropdown-item:hover {
-  color: #c1c1c1 !important;
+  color: #ff7f9f !important;
 }
 .cid-rzHpWAQx32 {
   padding-top: 30px;
